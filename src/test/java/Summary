@@ -1,0 +1,26 @@
+Rest Assured:
+API testi için popüler bir Java kütüphanesidir.
+Bu kütüphane, API istekleri göndermeyi, yanıtları almayı ve doğrulanmasını kolaylaştırır.
+Rest Assured, test senaryolarını yazmayı ve yönetmeyi basit ve okunabilir hale getiren akıcı bir API sunar.
+
+Hemcrest:
+Doğrulama işlemleri için güçlü bir Java kütüphanesidir.
+Hemcrest, Matchers sınıfında bulunan çeşitli eşleştirme istemleri sunar.
+Bu istemler, API yanıtlarının beklenen değerlere ve koşullara uymasını doğrulamak için kullanılabilir.
+
+Path:
+API isteklerinde parametreleri ve URL parçalarını oluşturmak için kullanılan bir Java kütüphanesidir.
+Path, URL'leri kolayca oluşturmayı ve yönetmeyi sağlayan akıcı bir API sunar.
+
+JSONPath:
+JSON yanıtlarından verileri çıkarmak için kullanılan bir Java kütüphanesidir.
+JSONPath, XPath'e benzer bir sözdizimi kullanarak JSON nesnelerinden ve dizilerinden veri almaya olanak tanır.
+
+Bu üç kütüphaneyi birlikte kullanarak:
+
+Farklı türde API istekleri gönderebilirsiniz.
+API yanıtlarını doğrulayabilir ve beklenen değerlere uygun olup olmadıklarını kontrol edebilirsiniz.
+JSON yanıtlarından verileri kolayca çıkarabilirsiniz.
+Karmaşık ve kapsamlı API test senaryoları yazabilirsiniz.
+Rest Assured, Hemcrest, Path ve JSONPath: API testi için güçlü ve kullanışlı araçlar sunar.
+Bu araçları kullanarak, API'lerinizin doğru ve güvenilir olduğundan emin olabilirsiniz.
